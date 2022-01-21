@@ -1,3 +1,5 @@
+
+
 ![HenryLogo](https://henry-11ty-resources.s3.sa-east-1.amazonaws.com/Assets/logo-henry-white-lg.png)
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
@@ -59,7 +61,7 @@ Es una nueva palabra clave de ES6, esto asignará una variable muy similar a `va
 También es nuevo en ES6. Un `const` es una variable que no se podrá cambiar. Esto es la abreviatura de "constante".
 
 ```javascript
-var nombre = 'Juan'; // Vamos a usar principalemente esta forma
+var nombre = 'Juan perez'; // Vamos a usar principalemente esta forma
 let apellido = 'Perez';
 const comidafavorita = 'Pizza';
 ```

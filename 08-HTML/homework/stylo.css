@@ -1,0 +1,28 @@
+h1 {
+    color: blueviolet;
+}
+
+img {
+    width: 300px;
+    float: right;
+    margin: 0px;
+}
+
+#thirdDiv {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(218, 10, 107);
+    padding: 50px;
+    border: 15px;
+    margin: auto;
+}
+
+#spanid {
+    font-size: 18;
+    margin: auto
+}
+
+#thirdiv {
+    width: 200px;
+    margin: auto;
+}
